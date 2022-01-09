@@ -1,0 +1,41 @@
+body{
+background-color: palevioletred;
+font-family: 'Licorice', cursive;
+font-size: 25px;
+}
+h1{  
+color:rgb(27, 3, 3); 
+margin: 20px;
+margin-left: 450pt;
+margin-right: 450pt;
+}  
+.c1{
+width: 800px;
+word-wrap: break-word;
+margin-left: 300px;
+font-family:'Open Sans', sans-serif;
+color: rgb(15, 15, 14);
+}
+img{
+width: 350px;
+height: 300px;
+border: 4px solid burlywood;
+margin: 97px;
+}
+    /*div {
+        width: 100%;
+        height: 400px;
+        background-image: url('ss2.jpg');
+        background-repeat: no-repeat;
+        background-size: contain;
+    
+      }
+    div {
+        width: 400%;
+        height: 400px;
+        background-image: url('ss1.jpg');
+        background-repeat: no-repeat;
+        background-size: contain;
+        
+      }*/
+    
